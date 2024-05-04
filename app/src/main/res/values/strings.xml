@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DchaSet</string>
+    <string name="device_admin_name">Dchaset</string>
+    <string name="device_admin_description">アンインストールを回避します。</string>
+
+</resources>
